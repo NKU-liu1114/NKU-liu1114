@@ -1,8 +1,7 @@
 # About me
--  👋 Hello, I’m Liuguomin, a student from Nankai University, Tianjin, China.
-- 👀 I major in information security.Also, Some computer science courses are my targets. 
+-  👋 Hello, I’m an undergraduate from Nankai University, Tianjin, China.
 - 🌱 I’m currently learning operting system, compiler principle and computer network.
 - 💞️ I’m looking forward to improving my programming skills. 
-- 📫 You can send email to 2113946@mail.nankai.edu.cn to contact with me. 
+- 📫 You can contact me via email at 2113946@mial.nanki.edu.cn.
 
 
