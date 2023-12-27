@@ -4,7 +4,7 @@
 - 💡 **Myblog**：[Blog](https://sakuratear.top)
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nku-liu1114&show_icons=true&theme=tokyonight" style="display: block; margin: 0 auto;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nku-liu1114&show_icons=true&theme=tokyonight" style="display: block; margin: 0 auto;" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nku-liu1114&layout=compact" style="display: block; margin: 0 auto;" />
 </div>
 
