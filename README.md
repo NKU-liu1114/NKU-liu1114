@@ -1,6 +1,5 @@
 # About me
--  👋 Hello, I’m an undergraduate from Nankai University, Tianjin, China.
-- 📫 You can contact me via email at 2113946@mail.nankai.edu.cn.
+-  👋 Hello, I’m a postgraduate student‌ from ZheJiang University, ZheJiang, China.
 - 💡 **Myblog**：[Blog](https://sakuratear.top)
 
 
